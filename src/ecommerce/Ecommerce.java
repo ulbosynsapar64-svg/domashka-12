@@ -1,3 +1,5 @@
+package ecommerce;
+
 import java.util.*;
 import java.math.BigDecimal;
 
